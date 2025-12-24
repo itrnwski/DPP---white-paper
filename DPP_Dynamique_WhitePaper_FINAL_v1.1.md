@@ -1,6 +1,6 @@
 # Protocole DPP Dynamique
 ## White Paper – Version 1.1 (Décembre 2025)
-### FINAL - Prêt pour Innoviris
+### FINAL 
 
 ---
 
